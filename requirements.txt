@@ -1,0 +1,13 @@
+#Python dependencies required for the development
+opencv-python
+numpy
+matplotlib
+time
+os
+tensorflow
+seaborn
+pandas
+sklearn
+
+
+
