@@ -15,5 +15,5 @@ We used Radial Basis Function kernel, which showed 0.96 cross-validation sores, 
 
 
 **Implementation**
-This research can be supported by Python version above 3.7.13. Install all the required dependencies from requirement.txt and all the captured images should be kept in "sika_deer_images" which comprised seven sub-folders each folder for each seven individual Sika deer. As Sika deer live in herds so cropped the individual Sika deer and put the respective image of Sika deer into respective subfolder. 
+This research can be supported by Python version above 3.7.13. Install all the required dependencies from requirement.txt and all the captured images should be kept in "dataset" which comprised seven sub-folders each folder for each seven individual Sika deer. As Sika deer live in herds so cropped the individual Sika deer and put the respective image of Sika deer into respective subfolder. 
 First, use siamese.ipynb for the siamese reidentification and extract the embeddings and then use that embeddings after Principal Component Analsysis into visualization_svm.ipynb. 
